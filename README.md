@@ -1,5 +1,5 @@
 ##### Hi everybody 👋
-<h3> I´m Nycole Rodrigues  <h3>
+<h3> I'm Nycole Rodrigues  <h3>
 
 
 - 🌱 I’m currently learning Software Development
