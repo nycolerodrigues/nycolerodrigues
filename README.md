@@ -2,7 +2,7 @@
 <h3> I´m Nycole Rodrigues  <h3>
 
 
-- 🌱 I’m currently learning Software Developer
+- 🌱 I’m currently learning Software Development
 - 🖥️ Computer Science Student - UFMA
 
   <br>
