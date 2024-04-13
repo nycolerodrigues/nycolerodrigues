@@ -1,6 +1,7 @@
 ##### Hi everybody 👋
 <h3> I'm Nycole Rodrigues 👩🏾‍💻 <h3>
 
+
 - 🖥️ Computer Science Student - UFMA
 - 🌱 I’m currently learning Back-End Development
 
