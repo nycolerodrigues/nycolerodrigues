@@ -1,9 +1,9 @@
-##### Hi everybody 👋
-<h3> I'm Nycole Rodrigues 👩🏾‍💻 <h3>
+##### Olá👋
+<h3> Sou Nycole Rodrigues 👩🏾‍💻 <h3>
 
 
-- 🖥️ Computer Science Student - UFMA
-- 🌱 I’m currently learning Back-End Development
+- 🖥️ Ciência da Computação - UFMA
+- 🌱 Atualmente estou estudando desenvolvimento Back-End
 
 
   <br>
@@ -17,7 +17,7 @@
 <br>
 
 ##
-**Conect with me**
+**Contatos**
  <div>
    <a href="https://www.instagram.com/nycolemcr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target"_blank"></a>
    <a href="mailto:nycolec.rodrigues@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
