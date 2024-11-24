@@ -3,7 +3,7 @@
 
 
 - 🖥️ Ciência da Computação - UFMA
-- 🌱 Atualmente estou estudando desenvolvimento Back-End
+
 
 
   <br>
