@@ -1,6 +1,4 @@
-# Olá👋
-<h3> Sou Nycole Rodrigues 👩🏾‍💻 <h3>
-
+# Olá 
 
 - 🖥️ Ciência da Computação - UFMA
 
