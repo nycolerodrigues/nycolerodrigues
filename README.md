@@ -1,9 +1,4 @@
 # Olá 
-
-- 🖥️ Ciência da Computação - UFMA
-
-
-
   <br>
 
 <div>
